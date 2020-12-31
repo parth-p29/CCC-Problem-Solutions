@@ -1,8 +1,5 @@
 #Parth Patel
-#797708
-#ICS4UOA
 #J2 problem 2019 - Time to Decompress
-#Mr.Veera
 #September 6 2019
 
 

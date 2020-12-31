@@ -1,8 +1,5 @@
 #Parth Patel
-#797708
-#ICS4UOA
 #j3 2016 problem - Hidden Palindrome
-#Mr. Veera
 #September 9 2019
 
 def ispalindrome(word):

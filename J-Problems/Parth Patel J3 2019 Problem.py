@@ -1,8 +1,5 @@
 #Parth Patel
-#797708
-#ICS4UOA
 #J3 Problem 2019 - Cold Compress
-#Mr.Veera
 #September 7 2019
 
 num_of_lines = int(input("Enter the number of lines: "))

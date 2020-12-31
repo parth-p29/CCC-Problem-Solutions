@@ -1,8 +1,5 @@
 #Parth Patel
-#797708
 #CCC S2 Problem - Assigning Partners
-#ICS4UOA
-#Mr. Veera
 #Decemember 11 2019
 
 num_of_students = int(input("Enter the number of students: "))  #gets the user's input

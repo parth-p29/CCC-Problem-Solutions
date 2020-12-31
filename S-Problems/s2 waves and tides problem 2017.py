@@ -1,3 +1,6 @@
+#Parth Patel
+#Dec 10 2018
+
 num_of_measurements = int(input("Enter the number of measurements: "))
 measurement = list(map(int, input("Enter your measurements (seperated by space): ").split())) 
 correct_measure = []

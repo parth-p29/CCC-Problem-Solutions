@@ -1,9 +1,5 @@
 ##Parth Patel
-##797708
-##Python 2014 S3 - The Geneva Confection
-##Mr Veera
-##ICS4UOA
-##December 12 2019
+#Jan 8 2019
 
 def is_possible(carts, length):    # i created a function that checks if the starting arrangements of carts is possible. It take two parameters; the user's list and its length
     smallest_check = 1 #i have a variable called the smallest_check which is supposed to be the first cart's number that has to arrive in the lake
